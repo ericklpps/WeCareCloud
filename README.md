@@ -1,4 +1,4 @@
-# Oracle SQL*Plus Docker Container
+# Repositório WeCare com Oracle SQL*Plus Docker Container
 Este repositório fornece um contêiner Docker baseado no Oracle Linux, com o cliente SQL*Plus pré-instalado. Ele permite que você se conecte a bancos de dados Oracle para executar consultas SQL, operações CRUD e outras tarefas administrativas, sem a necessidade de instalar ferramentas localmente.
 <br>
 # Como Usar este Repositório
