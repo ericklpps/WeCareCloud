@@ -32,7 +32,7 @@ docker run -it --rm oracle-sqlplus
 <Br>
 
 ## Passo 4: Conectar ao Banco de Dados
-sqlplus <usuario>/<senha>@//<host>:<porta>/<service_name>
+sqlplus (usuario)/(senha)@//(host):(porta)/(service_name)
 <br>
 
 ## Se a conexão for bem-sucedida, você verá algo como:
